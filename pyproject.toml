@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vitalcentile"
+version = "0.1.0"
+description = "Python access to the Centile pediatric vital-sign reference API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31"]
+license = "LicenseRef-VitalCentile-Research-Evaluation"
+license-files = ["LICENSE"]
+authors = [{ name = "Bongjin Lee", email = "pedbjl@snu.ac.kr" }]
+keywords = ["pediatrics", "vital signs", "centile", "percentile", "z-score"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+
+[project.urls]
+Homepage = "https://centile.research.or.kr"
+Documentation = "https://centile.research.or.kr"
+Source = "https://github.com/pedbjl/vitalcentile"
+Issues = "https://github.com/pedbjl/vitalcentile/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+vitalcentile = ["py.typed"]
