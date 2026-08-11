@@ -1,0 +1,34 @@
+VitalCentile Research and Evaluation License 1.0
+
+Copyright (c) 2026 Bongjin Lee. All rights reserved.
+
+1. Grant of permission
+Subject to this License, Bongjin Lee grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable permission to use the VitalCentile Python package (the "Software") solely for non-commercial research, education, and internal evaluation.
+
+2. Attribution
+Any publication, presentation, product documentation, or other output that uses the Software, its calculations, its output, or the underlying reference methodology must cite:
+
+Goo S, Jang W, Kim YS, Ji S, Park T, Park JD, Lee B. Streamlining pediatric vital sign assessment: innovations and insights. Scientific Reports. 2024;14:22542. https://doi.org/10.1038/s41598-024-73148-7
+
+3. Restrictions
+You may not, without prior written permission from Bongjin Lee: (a) use the Software, calculations, outputs, or associated reference materials for commercial purposes; (b) sell, sublicense, redistribute, host, mirror, publish, or provide the Software or a derivative package to third parties; (c) use the Software or its outputs in a commercial product, paid service, clinical decision-support product, or regulated medical device; (d) bulk extract, reproduce, or republish API content, reference curves, or calculation outputs; or (e) remove, obscure, or alter attribution, copyright, or this License.
+
+4. Clinical and medical disclaimer
+The Software is supplied for research and educational use only. It is not medical advice and is not intended for diagnosis, treatment, clinical decision-making, or use as a medical device. You are solely responsible for independent validation, clinical governance, and any use of results.
+
+5. No warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, OR AVAILABILITY.
+
+6. Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BONGJIN LEE AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE OR ITS OUTPUTS.
+
+7. Termination
+This License terminates automatically if you breach any term. Upon termination, you must stop using and destroy all copies of the Software in your possession or control.
+
+8. Permission requests
+For commercial use, redistribution, licensing, validation studies, clinical integration, or any use outside this License, contact Bongjin Lee at pedbjl@snu.ac.kr.
+
+9. Governing terms
+This License does not transfer ownership, intellectual-property rights, database rights, or any rights in underlying reference materials. Any additional terms agreed in writing with Bongjin Lee control to the extent of a conflict.
+
+This is a project-specific license, not an OSI-approved open-source license. Institutional legal review is recommended before relying on it for formal licensing or clinical deployment.
